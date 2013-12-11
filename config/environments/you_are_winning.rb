@@ -2,6 +2,6 @@
 puts ""
 puts ""
 puts "your secret instructions are:"
-puts "put all your previous commands into a text file and email upload it to a gist"
+puts "put all your previous commands into a gist and submit it!"
 puts ""
 puts "hint: how can you see all your previous commands easily?"
