@@ -1,0 +1,76 @@
+  88  git clone https://github.com/neich8/CLI-Obstacle-Course.git
+   89  find . "static_pages_controller.rb"
+   90  ls
+   91  cd CLI-Obstacel_Course
+   92  cd CLI-Obstacle_Course
+   93  cd CLI-Obstacle-Course
+   94  ls
+   95  cd app
+   96  ls
+   97  cd helpers
+   98  ls
+   99  mv static_pages_controller.rb /app/controllers
+  100  mv static_pages_controller.rb app/
+  101  mv static_pages_controller.rb app
+  102  cd ..
+  103  ls
+  104  cd helpers
+  105  ls
+  106  cd app
+  107  mv app static_pages_controller.rb
+  108  pwd
+  109  mv static_pages_controller.rb /home/nick/CLI-Obstacle-Course/app/controllers
+  110  cd app
+  111  cd ..
+  112  cd controllers
+  113  ls
+  114  find . "controller" -print
+  115  find. "botinator"
+  116  find . "botinator"
+  117  find . "bootinator"
+  118  cd ..
+  119  find . "bootinator"
+  120  grep bootinator
+  121  grep new 'bootinator'
+  122  grep new bootinator
+  123  grep " def bootinator"
+  124  grep " def bootinator".rb
+  125  grep grep -r "192.168.1.5" /etc/
+  126  grep grep -r "bootinator" /etc/
+  127  grep grep -r "bootinator"
+  128  grep grep -r "bootinator" /CLI-Obstacle-Course
+  129  grep grep  "bootinator" 
+  130  grep grep -R  "bootinator" 
+  131  grep grep -r  bootinator 
+  132  grep -r  bootinator 
+  133  grep -r "bootinator" /CLI-Obstacle-Course
+  134  grep -r "bootinator"
+  135  sudo apt-get install gnome-search-tool
+  136  Search for files
+  137  ls
+  138  cd CLI-Obstacle-Course
+  139  cd app/assets/stylesheets
+  140  ls
+  141  mv application_helper.rb 
+  142  mv application_helper.rb  app/helpers/
+  143  mv application_helper.rb  app/helpers
+  144  ls
+  145  mv application_helper.rb  ap
+  146  mv ap application_helper.rb
+  147  ls
+  148  pwd
+  149  mv application_helper.rb /home/nick/CLI-Obstacle-Course/app/helpers
+  150  cd ..
+  151  ls
+  152  cd 
+  153  cd CLI-Obstacle-Course
+  154  ls
+  155  rm delete_me
+  156  rmdir delete_me
+  157  rm -rf delet_me
+  158  ls
+  159  rm -rf delete_me
+  160  ls
+  161  .bash_history
+  162  bash_history
+  163  history
